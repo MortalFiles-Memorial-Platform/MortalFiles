@@ -1,0 +1,14 @@
+# Cemetery background — The hero slide behind "Where Memories Live Beyond Distance" now shows a hand-crafted atmospheric cemetery scene: a deep night-green sky with stars, a glowing moon, six species of tall cypress and weeping willow trees, scattered stone crosses and arched gravestones, rolling low grass hills with blade details, soft ground mist, and amber firefly lights. A subtle CSS wind animation gently shifts the mood overlay.
+# Admin Management Panel — Access it via the small ⚙ button in the bottom-left corner of the platform. Login credentials:
+
+# Username: admin@mortalfiles.com
+# Password: MortalAdmin2026!
+
+# The dashboard has 6 tabs:
+
+# Overview — live stats and activity log
+# Images & Photos — replace tomb portrait, hero background, gallery photos 1–3, and logo (all instant, no page reload)
+# Icons & UI — change any emoji icon via click-to-edit or the Quick Emoji Replace tool using element IDs
+# Hero & Backgrounds — upload real photo to replace the cemetery SVG, adjust overlay darkness with a slider
+# Platform Text — edit headline, subtext, deceased name, dates, and epitaph live
+# Users — view registered families, resend invites, manage access
